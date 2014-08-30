@@ -1,0 +1,1 @@
+Student [studentId=102, firstName=Deb, lastName=S, major=MBCT, phone=6477654321, gpa=3.1, birthDate=12/12/1990]
